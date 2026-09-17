@@ -1,5 +1,8 @@
 # 🏏 IPL 2023 Data Analysis
 
+<img width="966" height="545" alt="Screenshot 2026-09-17 155223" src="https://github.com/user-attachments/assets/42894cf8-5da5-472f-a62e-db78a19d2b08" />
+
+
 An end-to-end **IPL 2023 Data Analytics project** using **MySQL and Power BI**.
 
 ## 📌 Project Overview
